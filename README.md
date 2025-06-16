@@ -57,12 +57,12 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🎵 Harsh's Portfolio](https://portfoliotechy.netlify.app/) | A frontend music streaming UI inspired by Spotify | HTML, CSS, JavaScript |
-| [✅ Car Purchase Website](https://car-purchase.netlify.app/) | A responsive and user-friendly car purchase website | HTML, CSS, JavaScript |
-| [🌐 Youtube Clone](https://webyouclone.netlify.app/) | Collection of mini projects using HTML/CSS/JS | HTML, CSS, JavaScript |
-| [📘 Snake Game](https://snakegamesio.netlify.app/) | My C++ solutions for various LeetCode problems | C++ |
-| [📘 Space Shooter Game](https://spaceshootergameio.netlify.app/) | My C++ solutions for various LeetCode problems | C++ |
-| [📘 Sign Up / Login form](https://signloginform.netlify.app/) | My C++ solutions for various LeetCode problems | C++ |
+| [🧑‍💻 Harsh's Portfolio](https://portfoliotechy.netlify.app/) | A frontend music streaming UI inspired by Spotify | HTML, CSS, JavaScript |
+| [🚗 Car Purchase Website](https://car-purchase.netlify.app/) | A responsive and user-friendly car purchase website | HTML, CSS, JavaScript |
+| [▶️ Youtube Clone](https://webyouclone.netlify.app/) | Collection of mini projects using HTML/CSS/JS | HTML, CSS, JavaScript |
+| [🐍 Snake Game](https://snakegamesio.netlify.app/) | My C++ solutions for various LeetCode problems | C++ |
+| [🚀 Space Shooter Game](https://spaceshootergameio.netlify.app/) | My C++ solutions for various LeetCode problems | C++ |
+| [👤 Sign Up / Login form](https://signloginform.netlify.app/) | My C++ solutions for various LeetCode problems | C++ |
 
 
 ---
