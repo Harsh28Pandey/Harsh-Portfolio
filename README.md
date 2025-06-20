@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a Computer Science & Engineering student at **Kanpur Institute of Technology**  
-- 🌱 I’m currently learning **Web Development** and exploring **Machine Learning**
+- 🌱 I’m currently learning **Full Stack Web Development** and exploring **Machine Learning**
 - 💡 I love building projects that solve real-life problems
 
 ---
@@ -18,8 +18,9 @@
 
 #### 🧑‍💻 Languages
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ff099C?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -40,6 +41,7 @@
 #### 🔧 Tools
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Vs Code-00065?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code"/>
 </p>
 
 
@@ -48,7 +50,7 @@
 ### 🧠 Currently Working On
 
 - 🚀 Enhancing my **Data Structures & Algorithms** skills via LeetCode  
-- 💻 Personal projects using **Front-End Development**
+- 💻 Personal projects using **Web Development**
 - 🔍 Open to internships and collaboration opportunities in **Web Development** & **Backend Development**
 
 ---
@@ -57,12 +59,14 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🧑‍💻 Harsh's Portfolio](https://portfoliotechy.netlify.app/) | A frontend music streaming UI inspired by Spotify | HTML, CSS, JavaScript |
-| [🚗 Car Purchase Website](https://car-purchase.netlify.app/) | A responsive and user-friendly car purchase website | HTML, CSS, JavaScript |
-| [▶️ Youtube Clone](https://webyouclone.netlify.app/) | Collection of mini projects using HTML/CSS/JS | HTML, CSS, JavaScript |
-| [🐍 Snake Game](https://snakegamesio.netlify.app/) | My C++ solutions for various LeetCode problems | C++ |
-| [🚀 Space Shooter Game](https://spaceshootergameio.netlify.app/) | My C++ solutions for various LeetCode problems | C++ |
-| [👤 Sign Up / Login form](https://signloginform.netlify.app/) | My C++ solutions for various LeetCode problems | C++ |
+| [👨‍💻 Harsh's Portfolio](https://portfoliotechy.netlify.app/) | Showcases skills, projects, resume, and contact info professionally. | HTML, CSS, JavaScript |
+| [🚙 Car Purchase Website](https://car-purchase.netlify.app/) | Browse, filter, and purchase cars online with detailed listings. | HTML, CSS, JavaScript |
+| [👤 Login / SignUp Form](https://signloginform.netlify.app/) |Register or login securely using email and password validation. | HTML, CSS, JavaScript |
+| [🎥 Youtube Clone](https://webyouclone.netlify.app/) | Stream, upload, and search videos in a YouTube-like interface. | HTML, CSS, JavaScript |
+| [🧠 Tic Tac Toe Game](https://tictactoegamesio.netlify.app/) | Classic X and O game to win in three rows. | HTML, CSS, JavaScript |
+| [🐍 Snake Game](https://snakegamesio.netlify.app/) | Control a snake, eat food, grow longer, avoid crashing. | HTML, CSS, JavaScript |
+| [🚀 Space Shooter Game](https://spaceshootergameio.netlify.app/) | Shoot enemies in space, avoid collisions, and survive longer. | HTML, CSS, JavaScript |
+| [🚗 Car Game](https://cargameio.netlify.app/) | Drive a car, avoid obstacles, and score high points. | HTML, CSS, JavaScript |
 
 
 ---
@@ -86,9 +90,9 @@
 ### 🧮 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhanshyamJha05&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhanshyamJha05&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh28Pandey&theme=tokyonight" />
 </p>
 
 ---
