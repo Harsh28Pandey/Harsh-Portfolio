@@ -1,108 +1,153 @@
-<h1 align="center">Hi 👋, I'm Harsh Pandey</h1>
-<h3 align="center">Aspiring Software Engineer | CSE Undergrad | Web Developer</h3>
+<!-- PROFILE HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Pandey;Aspiring+Software+Engineer;Web+%26+App+Developer;Tech+Lover+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Coder;Web+%26+App+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/CSE%20Undergrad-%230077B5?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Developer-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💼 About Me
 
-- 🎓 I'm a Computer Science & Engineering student at **Kanpur Institute of Technology**  
-- 🌱 I’m currently learning **Full Stack Web Development** and exploring **Machine Learning**
-- 💡 I love building projects that solve real-life problems
+- 🎓 B.Tech in **Computer Science & Engineering** @ *Kanpur Institute of Technology*
+- 🌱 Learning **Full Stack Development**, exploring **AI/ML**, and practicing **DSA**
+- 🛠️ Passionate about building **user-centric products**
+- 🤝 Open to **collaboration**, **internships**, and **tech community involvement**
 
 ---
-### 🛠️ Tech Stack
 
-#### 🧑‍💻 Languages
+## 🛠 Tech Stack
+
+### 💻 Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ff099C?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js" />
 </p>
 
-#### ⚙️ Frameworks & Runtime
+### 📦 Frameworks & Libraries  
 <p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=django,nodejs" />
 </p>
 
-#### 🗄️ Databases
+### 🗄 Databases  
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-#### 🔧 Tools
+### 🔧 Tools & IDEs  
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Vs Code-00065?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code"/>
-</p>
-
-
----
-
-### 🧠 Currently Working On
-
-- 🚀 Enhancing my **Data Structures & Algorithms** skills via LeetCode  
-- 💻 Personal projects using **Web Development**
-- 🔍 Open to internships and collaboration opportunities in **Web Development** & **Backend Development**
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [👨‍💻 Harsh's Portfolio](https://portfoliotechy.netlify.app/) | Showcases skills, projects, resume, and contact info professionally. | HTML, CSS, JavaScript |
-| [🚙 Car Purchase Website](https://car-purchase.netlify.app/) | Browse, filter, and purchase cars online with detailed listings. | HTML, CSS, JavaScript |
-| [👤 Login / SignUp Form](https://signloginform.netlify.app/) |Register or login securely using email and password validation. | HTML, CSS, JavaScript |
-| [🎥 Youtube Clone](https://webyouclone.netlify.app/) | Stream, upload, and search videos in a YouTube-like interface. | HTML, CSS, JavaScript |
-| [🧠 Tic Tac Toe Game](https://tictactoegamesio.netlify.app/) | Classic X and O game to win in three rows. | HTML, CSS, JavaScript |
-| [🐍 Snake Game](https://snakegamesio.netlify.app/) | Control a snake, eat food, grow longer, avoid crashing. | HTML, CSS, JavaScript |
-| [🚀 Space Shooter Game](https://spaceshootergameio.netlify.app/) | Shoot enemies in space, avoid collisions, and survive longer. | HTML, CSS, JavaScript |
-| [🚗 Car Game](https://cargameio.netlify.app/) | Drive a car, avoid obstacles, and score high points. | HTML, CSS, JavaScript |
-
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/harsh28pandey" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://twitter.com/pandey28harsh" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
-  <a href="mailto:harsh28.knp@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-### 🧮 GitHub Stats
+## 📚 Internship Journey — PrismStudio 🌐
+
+> **Web Development Internship (June–July 2025)**  
+> 🔗 [Project Repository](https://github.com/Harsh28Pandey/PrismStudio-Web-Development)
+
+<table>
+  <tr>
+    <td>🏢 Organization</td>
+    <td><b>PrismStudio</b></td>
+  </tr>
+  <tr>
+    <td>🛠 Technologies Used</td>
+    <td>HTML, CSS, JavaScript, GitHub, Netlify</td>
+  </tr>
+  <tr>
+    <td>📅 Duration</td>
+    <td>4 Weeks</td>
+  </tr>
+  <tr>
+    <td>📄 Tasks Completed</td>
+    <td>
+      <ul>
+        <li>✅ Built a fully responsive <b>Car Purchase Website</b></li>
+        <li>✅ Developed a <b>YouTube Clone</b> with custom styling</li>
+        <li>✅ Created interactive games like <b>Tic Tac Toe</b>, <b>Snake Game</b>, <b>Space Shooter</b></li>
+        <li>✅ Designed modern UI-based <b>Login/SignUp</b> forms</li>
+        <li>✅ Implemented cart system with <b>JS logic</b> and dynamic UI</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>🌟 Key Learnings</td>
+    <td>
+      <ul>
+        <li>Responsive layout design with Flex/Grid</li>
+        <li>DOM Manipulation using JavaScript</li>
+        <li>Real-world problem solving through coding</li>
+        <li>Git & GitHub version control best practices</li>
+        <li>Web Deployment via Netlify</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🚨 Project | 📝 Description | ⚙️ Tech |
+|-----------|----------------|--------|
+| [💼 Portfolio](https://portfoliotechy.netlify.app/) | Personal developer portfolio | `HTML`, `CSS`, `JS` |
+| [🚗 Car Purchase](https://car-purchase.netlify.app/) | Buy & browse car listings | `HTML`, `CSS`, `JS` |
+| [🔐 Auth Form](https://signloginform.netlify.app/) | Secure Login/SignUp page | `HTML`, `CSS`, `JS` |
+| [📺 YouTube Clone](https://webyouclone.netlify.app/) | UI of video-sharing app | `HTML`, `CSS`, `JS` |
+| [⭕❌ Tic Tac Toe](https://tictactoegamesio.netlify.app/) | Classic 2-player game | `HTML`, `CSS`, `JS` |
+| [🐍 Snake Game](https://snakegamesio.netlify.app/) | Eat & grow retro game | `HTML`, `CSS`, `JS` |
+| [🛸 Space Shooter](https://spaceshootergameio.netlify.app/) | Avoid & attack in space | `HTML`, `CSS`, `JS` |
+| [🏎️ Car Game](https://cargameio.netlify.app/) | Navigate traffic game | `HTML`, `CSS`, `JS` |
+
+</div>
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh28Pandey&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/harsh28pandey"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/pandey28harsh"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:harsh28.knp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🏆 Badges & Certifications
+## 📊 GitHub Insights
 
-- ✔️ C++ Programming – HackerRank  
-- ✔️ Python Programming – [Great Learning / Coursera / etc.]  
-- ✔️ Web Development Bootcamp – [Udemy]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh28Pandey&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=radical" />
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🏆 Certifications & Achievements
+
+- ✅ C++ Programming – HackerRank  
+- ✅ Python Programming – Great Learning, Coursera  
+- ✅ Web Development Bootcamp – Udemy  
+- ✅ Frontend Projects – PrismStudio Internship  
+- 📊 Machine Learning – IBM SkillBuild *(In Progress)*
+
+---
+
+## 💡 Quote That Inspires Me
+
+> *"💻 Code is like humor. When you have to explain it, it's bad."*  
+> — Cory House
+
+---
+
+<p align="center">
+  🚀 *Let’s innovate, collaborate, and build the future together!*
+</p>
